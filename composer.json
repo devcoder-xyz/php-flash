@@ -1,6 +1,6 @@
 {
   "name": "devcoder-xyz/php-flash",
-  "description": "PHP Session is a PHP library that optimizes session management, utilizing PHP's native session handling mechanisms for enhanced security and efficiency. ",
+  "description": "PHP Flash : Simplify message flash management in your PHP applications.",
   "type": "package",
   "require": {
     "php": ">=7.4"
